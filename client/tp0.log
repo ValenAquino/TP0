@@ -1,0 +1,347 @@
+[INFO] 01:55:55:299 Client/(10243:10243): Hola! Soy un log
+[INFO] 01:55:55:303 Client/(10243:10243): IP: 127.0.0.1
+[INFO] 01:55:55:305 Client/(10243:10243): Puerto: 4444
+[INFO] 01:55:55:306 Client/(10243:10243): Clave: valor
+[INFO] 10:54:26:860 Client/(10958:10958): Hola! Soy un log
+[INFO] 10:54:26:861 Client/(10958:10958): IP: 127.0.0.1
+[INFO] 10:54:26:861 Client/(10958:10958): Puerto: 4444
+[INFO] 10:54:26:861 Client/(10958:10958): Clave: valor
+[INFO] 10:54:30:984 Client/(10958:10958): hola
+[INFO] 10:56:36:175 Client/(11036:11036): Hola! Soy un log
+[INFO] 10:56:36:177 Client/(11036:11036): IP: 127.0.0.1
+[INFO] 10:56:36:177 Client/(11036:11036): Puerto: 4444
+[INFO] 10:56:36:177 Client/(11036:11036): Clave: valor
+[INFO] 10:57:33:792 Client/(11082:11082): Hola! Soy un log
+[INFO] 10:57:33:794 Client/(11082:11082): IP: 127.0.0.1
+[INFO] 10:57:33:794 Client/(11082:11082): Puerto: 4444
+[INFO] 10:57:33:794 Client/(11082:11082): Clave: valor
+[INFO] 10:57:38:040 Client/(11082:11082): Hola
+[INFO] 10:57:42:295 Client/(11082:11082): Que tal
+[INFO] 10:58:23:896 Client/(11132:11132): Hola! Soy un log
+[INFO] 10:58:23:899 Client/(11132:11132): IP: 127.0.0.1
+[INFO] 10:58:23:900 Client/(11132:11132): Puerto: 4444
+[INFO] 10:58:23:901 Client/(11132:11132): Clave: valor
+[INFO] 10:58:26:231 Client/(11132:11132): Hola
+[INFO] 10:58:28:959 Client/(11132:11132): Muy buena
+[INFO] 10:58:31:472 Client/(11132:11132): chau
+[INFO] 02:17:39:277 Client/(14397:14397): Hola! Soy un log
+[INFO] 02:17:39:278 Client/(14397:14397): IP: 127.0.0.1
+[INFO] 02:17:39:278 Client/(14397:14397): Puerto: 4444
+[INFO] 02:17:39:278 Client/(14397:14397): Clave: valor
+[INFO] 02:17:42:686 Client/(14397:14397): l
+[INFO] 02:17:43:788 Client/(14397:14397): l
+[INFO] 02:17:44:956 Client/(14397:14397): m
+[INFO] 02:21:29:932 Client/(14440:14440): Hola! Soy un log
+[INFO] 02:21:29:938 Client/(14440:14440): IP: 127.0.0.1
+[INFO] 02:21:29:938 Client/(14440:14440): Puerto: 4444
+[INFO] 02:21:29:938 Client/(14440:14440): Clave: valor
+[INFO] 02:23:29:819 Client/(14534:14534): Hola! Soy un log
+[INFO] 02:23:29:819 Client/(14534:14534): IP: 127.0.0.1
+[INFO] 02:23:29:820 Client/(14534:14534): Puerto: 4444
+[INFO] 02:23:29:820 Client/(14534:14534): Clave: valor
+[INFO] 02:25:46:669 Client/(14671:14671): Hola! Soy un log
+[INFO] 02:25:46:671 Client/(14671:14671): IP: 127.0.0.1
+[INFO] 02:25:46:671 Client/(14671:14671): Puerto: 4444
+[INFO] 02:25:46:671 Client/(14671:14671): Clave: valor
+[INFO] 02:29:18:297 Client/(15078:15078): Hola! Soy un log
+[INFO] 02:29:18:297 Client/(15078:15078): IP: 127.0.0.1
+[INFO] 02:29:18:298 Client/(15078:15078): Puerto: 4444
+[INFO] 02:29:18:298 Client/(15078:15078): Clave: valor
+[INFO] 02:31:30:149 Client/(15163:15163): Hola! Soy un log
+[INFO] 02:31:30:150 Client/(15163:15163): IP: 127.0.0.1
+[INFO] 02:31:30:150 Client/(15163:15163): Puerto: 4444
+[INFO] 02:31:30:150 Client/(15163:15163): Clave: valor
+[INFO] 02:31:43:821 Client/(15163:15163): asd
+[INFO] 02:31:44:526 Client/(15163:15163): asd
+[INFO] 02:31:44:936 Client/(15163:15163): asd
+[INFO] 02:31:45:246 Client/(15163:15163): asd
+[INFO] 02:31:45:500 Client/(15163:15163): asd
+[INFO] 02:31:45:717 Client/(15163:15163): asd
+[INFO] 00:23:45:677 Client/(16823:16823): Hola! Soy un log
+[INFO] 00:23:45:678 Client/(16823:16823): IP: 127.0.0.1
+[INFO] 00:23:45:678 Client/(16823:16823): Puerto: 4444
+[INFO] 00:23:45:678 Client/(16823:16823): Clave: valor
+[INFO] 00:56:44:474 Client/(17567:17567): Hola! Soy un log
+[INFO] 00:56:44:474 Client/(17567:17567): IP: 127.0.0.1
+[INFO] 00:56:44:474 Client/(17567:17567): Puerto: 4444
+[INFO] 00:56:44:474 Client/(17567:17567): Clave: valor
+[INFO] 00:57:14:250 Client/(17590:17590): Hola! Soy un log
+[INFO] 00:57:14:251 Client/(17590:17590): IP: 127.0.0.1
+[INFO] 00:57:14:251 Client/(17590:17590): Puerto: 4444
+[INFO] 00:57:14:251 Client/(17590:17590): Clave: valor
+[INFO] 00:59:30:954 Client/(17753:17753): Hola! Soy un log
+[INFO] 00:59:37:834 Client/(17753:17753): IP: 127.0.0.1
+[INFO] 00:59:38:476 Client/(17753:17753): Puerto: 4444
+[INFO] 00:59:43:671 Client/(17753:17753): Clave: valor
+[INFO] 01:01:50:671 Client/(17753:17753): ds
+[INFO] 01:03:40:987 Client/(17856:17856): Hola! Soy un log
+[INFO] 01:03:40:987 Client/(17856:17856): IP: 127.0.0.1
+[INFO] 01:03:40:987 Client/(17856:17856): Puerto: 4444
+[INFO] 01:03:40:987 Client/(17856:17856): Clave: valor
+[INFO] 01:04:20:663 Client/(17869:17869): Hola! Soy un log
+[INFO] 01:04:20:672 Client/(17869:17869): IP: 127.0.0.1
+[INFO] 01:04:20:673 Client/(17869:17869): Puerto: 4444
+[INFO] 01:04:20:673 Client/(17869:17869): Clave: valor
+[INFO] 01:04:56:021 Client/(17908:17908): Hola! Soy un log
+[INFO] 01:04:56:021 Client/(17908:17908): IP: 127.0.0.1
+[INFO] 01:04:56:021 Client/(17908:17908): Puerto: 4444
+[INFO] 01:05:03:055 Client/(17908:17908): Clave: valor
+[INFO] 01:06:32:154 Client/(17908:17908): d
+[INFO] 01:06:57:013 Client/(18016:18016): Hola! Soy un log
+[INFO] 01:06:57:013 Client/(18016:18016): IP: 127.0.0.1
+[INFO] 01:06:57:013 Client/(18016:18016): Puerto: 4444
+[INFO] 01:06:57:013 Client/(18016:18016): Clave: valor
+[INFO] 01:07:37:265 Client/(18016:18016): d
+[INFO] 01:08:54:674 Client/(18142:18142): Hola! Soy un log
+[INFO] 01:08:54:674 Client/(18142:18142): IP: 127.0.0.1
+[INFO] 01:08:54:674 Client/(18142:18142): Puerto: 4444
+[INFO] 01:08:54:674 Client/(18142:18142): Clave: valor
+[INFO] 01:09:41:764 Client/(18185:18185): Hola! Soy un log
+[INFO] 01:09:41:764 Client/(18185:18185): IP: 127.0.0.1
+[INFO] 01:09:41:764 Client/(18185:18185): Puerto: 4444
+[INFO] 01:09:41:764 Client/(18185:18185): Clave: valor
+[INFO] 01:23:39:684 Client/(19610:19610): Hola! Soy un log
+[INFO] 01:23:39:684 Client/(19610:19610): IP: 127.0.0.1
+[INFO] 01:23:39:684 Client/(19610:19610): Puerto: 4444
+[INFO] 01:23:39:684 Client/(19610:19610): Clave: valor
+[INFO] 01:24:18:022 Client/(19631:19631): Hola! Soy un log
+[INFO] 01:24:18:022 Client/(19631:19631): IP: 127.0.0.1
+[INFO] 01:24:18:022 Client/(19631:19631): Puerto: 4444
+[INFO] 01:24:18:022 Client/(19631:19631): Clave: valor
+[INFO] 01:24:27:218 Client/(19631:19631): p
+[INFO] 01:25:46:596 Client/(19820:19820): Hola! Soy un log
+[INFO] 01:25:46:596 Client/(19820:19820): IP: 127.0.0.1
+[INFO] 01:25:46:596 Client/(19820:19820): Puerto: 4444
+[INFO] 01:25:46:596 Client/(19820:19820): Clave: valor
+[INFO] 01:28:01:000 Client/(19912:19912): Hola! Soy un log
+[INFO] 01:28:01:005 Client/(19912:19912): IP: 127.0.0.1
+[INFO] 01:28:01:005 Client/(19912:19912): Puerto: 4444
+[INFO] 01:28:01:005 Client/(19912:19912): Clave: valor
+[INFO] 01:29:19:763 Client/(19930:19930): Hola! Soy un log
+[INFO] 01:29:19:764 Client/(19930:19930): IP: 127.0.0.1
+[INFO] 01:29:19:764 Client/(19930:19930): Puerto: 4444
+[INFO] 01:29:19:764 Client/(19930:19930): Clave: valor
+[INFO] 01:29:49:228 Client/(19953:19953): Hola! Soy un log
+[INFO] 01:29:49:228 Client/(19953:19953): IP: 127.0.0.1
+[INFO] 01:29:49:229 Client/(19953:19953): Puerto: 4444
+[INFO] 01:29:49:229 Client/(19953:19953): Clave: valor
+[INFO] 01:30:27:452 Client/(19998:19998): Hola! Soy un log
+[INFO] 01:30:27:452 Client/(19998:19998): IP: 127.0.0.1
+[INFO] 01:30:27:452 Client/(19998:19998): Puerto: 4444
+[INFO] 01:30:27:452 Client/(19998:19998): Clave: valor
+[INFO] 01:31:30:060 Client/(20040:20040): Hola! Soy un log
+[INFO] 01:31:30:060 Client/(20040:20040): IP: 127.0.0.1
+[INFO] 01:31:30:060 Client/(20040:20040): Puerto: 4444
+[INFO] 01:31:30:060 Client/(20040:20040): Clave: valor
+[INFO] 01:48:43:389 Client/(20426:20426): Hola! Soy un log
+[INFO] 01:48:43:389 Client/(20426:20426): IP: 127.0.0.1
+[INFO] 01:48:43:389 Client/(20426:20426): Puerto: 4444
+[INFO] 01:48:43:389 Client/(20426:20426): Clave: valor
+[INFO] 01:50:33:189 Client/(20589:20589): Hola! Soy un log
+[INFO] 01:50:33:189 Client/(20589:20589): IP: 127.0.0.1
+[INFO] 01:50:33:190 Client/(20589:20589): Puerto: 4444
+[INFO] 01:50:33:190 Client/(20589:20589): Clave: valor
+[INFO] 01:51:14:365 Client/(20661:20661): Hola! Soy un log
+[INFO] 01:51:14:365 Client/(20661:20661): IP: 127.0.0.1
+[INFO] 01:51:14:365 Client/(20661:20661): Puerto: 4444
+[INFO] 01:51:14:365 Client/(20661:20661): Clave: valor
+[INFO] 01:52:12:989 Client/(20723:20723): Hola! Soy un log
+[INFO] 01:52:12:989 Client/(20723:20723): IP: 127.0.0.1
+[INFO] 01:52:12:989 Client/(20723:20723): Puerto: 4444
+[INFO] 01:52:12:989 Client/(20723:20723): Clave: valor
+[INFO] 02:00:13:750 Client/(21073:21073): Hola! Soy un log
+[INFO] 02:00:13:750 Client/(21073:21073): IP: 127.0.0.1
+[INFO] 02:00:13:750 Client/(21073:21073): Puerto: 4444
+[INFO] 02:00:13:750 Client/(21073:21073): Clave: valor
+[INFO] 02:00:49:613 Client/(21104:21104): Hola! Soy un log
+[INFO] 02:00:49:613 Client/(21104:21104): IP: 127.0.0.1
+[INFO] 02:00:49:613 Client/(21104:21104): Puerto: 4444
+[INFO] 02:00:49:613 Client/(21104:21104): Clave: valor
+[INFO] 02:01:28:477 Client/(21227:21227): Hola! Soy un log
+[INFO] 02:01:28:477 Client/(21227:21227): IP: 127.0.0.1
+[INFO] 02:01:28:477 Client/(21227:21227): Puerto: 4444
+[INFO] 02:01:28:477 Client/(21227:21227): Clave: valor
+[INFO] 02:02:13:870 Client/(21320:21320): Hola! Soy un log
+[INFO] 02:02:13:870 Client/(21320:21320): IP: 127.0.0.1
+[INFO] 02:02:13:870 Client/(21320:21320): Puerto: 4444
+[INFO] 02:02:13:870 Client/(21320:21320): Clave: valor
+[INFO] 10:51:00:230 Client/(21729:21729): Hola! Soy un log
+[INFO] 10:51:00:230 Client/(21729:21729): IP: 127.0.0.1
+[INFO] 10:51:00:230 Client/(21729:21729): Puerto: 4444
+[INFO] 10:51:00:230 Client/(21729:21729): Clave: valor
+[INFO] 11:06:26:904 Client/(22400:22400): Hola! Soy un log
+[INFO] 11:06:26:904 Client/(22400:22400): IP: 127.0.0.1
+[INFO] 11:06:26:904 Client/(22400:22400): Puerto: 4444
+[INFO] 11:06:26:904 Client/(22400:22400): Clave: valor
+[INFO] 11:07:28:823 Client/(22502:22502): Hola! Soy un log
+[INFO] 11:07:28:824 Client/(22502:22502): IP: 127.0.0.1
+[INFO] 11:07:28:824 Client/(22502:22502): Puerto: 4444
+[INFO] 11:07:28:824 Client/(22502:22502): Clave: valor
+[INFO] 11:08:51:471 Client/(22593:22593): Hola! Soy un log
+[INFO] 11:08:51:471 Client/(22593:22593): IP: 127.0.0.1
+[INFO] 11:08:51:472 Client/(22593:22593): Puerto: 4444
+[INFO] 11:08:51:472 Client/(22593:22593): Clave: valor
+[INFO] 11:11:39:311 Client/(22715:22715): Hola! Soy un log
+[INFO] 11:11:39:311 Client/(22715:22715): IP: 127.0.0.1
+[INFO] 11:11:39:311 Client/(22715:22715): Puerto: 4444
+[INFO] 11:11:39:311 Client/(22715:22715): Clave: valor
+[INFO] 11:12:39:886 Client/(22765:22765): Hola! Soy un log
+[INFO] 11:12:39:886 Client/(22765:22765): IP: 127.0.0.1
+[INFO] 11:12:39:886 Client/(22765:22765): Puerto: 4444
+[INFO] 11:12:39:886 Client/(22765:22765): Clave: valor
+[INFO] 17:15:05:949 Client/(23416:23416): Hola! Soy un log
+[INFO] 17:15:05:949 Client/(23416:23416): IP: 127.0.0.1
+[INFO] 17:15:05:949 Client/(23416:23416): Puerto: 4444
+[INFO] 17:15:05:949 Client/(23416:23416): Clave: valor
+[INFO] 22:46:44:696 Client/(24048:24048): Hola! Soy un log
+[INFO] 22:46:44:696 Client/(24048:24048): IP: 127.0.0.1
+[INFO] 22:46:44:696 Client/(24048:24048): Puerto: 4444
+[INFO] 22:46:44:696 Client/(24048:24048): Clave: valor
+[INFO] 22:48:06:215 Client/(24127:24127): Hola! Soy un log
+[INFO] 22:48:06:216 Client/(24127:24127): IP: 127.0.0.1
+[INFO] 22:48:06:216 Client/(24127:24127): Puerto: 4444
+[INFO] 22:48:06:216 Client/(24127:24127): Clave: valor
+[INFO] 22:48:44:123 Client/(24169:24169): Hola! Soy un log
+[INFO] 22:48:44:123 Client/(24169:24169): IP: 127.0.0.1
+[INFO] 22:48:44:123 Client/(24169:24169): Puerto: 4444
+[INFO] 22:48:44:123 Client/(24169:24169): Clave: valor
+[INFO] 22:49:02:408 Client/(24171:24171): Hola! Soy un log
+[INFO] 22:49:02:408 Client/(24171:24171): IP: 127.0.0.1
+[INFO] 22:49:02:408 Client/(24171:24171): Puerto: 4444
+[INFO] 22:49:02:408 Client/(24171:24171): Clave: valor
+[INFO] 22:51:20:439 Client/(24209:24209): Hola! Soy un log
+[INFO] 22:51:20:439 Client/(24209:24209): IP: 127.0.0.1
+[INFO] 22:51:20:439 Client/(24209:24209): Puerto: 4444
+[INFO] 22:51:20:439 Client/(24209:24209): Clave: valor
+[INFO] 23:05:11:298 Client/(24454:24454): Hola! Soy un log
+[INFO] 23:05:11:298 Client/(24454:24454): IP: 127.0.0.1
+[INFO] 23:05:11:298 Client/(24454:24454): Puerto: 4444
+[INFO] 23:05:11:298 Client/(24454:24454): Clave: valor
+[INFO] 23:06:27:574 Client/(24530:24530): Hola! Soy un log
+[INFO] 23:06:27:574 Client/(24530:24530): IP: 127.0.0.1
+[INFO] 23:06:27:574 Client/(24530:24530): Puerto: 4444
+[INFO] 23:06:27:574 Client/(24530:24530): Clave: valor
+[INFO] 23:07:45:456 Client/(24588:24588): Hola! Soy un log
+[INFO] 23:07:45:457 Client/(24588:24588): IP: 127.0.0.1
+[INFO] 23:07:45:457 Client/(24588:24588): Puerto: 4444
+[INFO] 23:07:45:457 Client/(24588:24588): Clave: valor
+[INFO] 23:10:59:237 Client/(24690:24690): Hola! Soy un log
+[INFO] 23:10:59:237 Client/(24690:24690): IP: 127.0.0.1
+[INFO] 23:10:59:237 Client/(24690:24690): Puerto: 4444
+[INFO] 23:10:59:237 Client/(24690:24690): Clave: valor
+[INFO] 23:12:45:022 Client/(24866:24866): Hola! Soy un log
+[INFO] 23:12:45:022 Client/(24866:24866): IP: 127.0.0.1
+[INFO] 23:12:45:022 Client/(24866:24866): Puerto: 4444
+[INFO] 23:12:45:022 Client/(24866:24866): Clave: valor
+[INFO] 23:13:20:220 Client/(24891:24891): Hola! Soy un log
+[INFO] 23:13:20:220 Client/(24891:24891): IP: 127.0.0.1
+[INFO] 23:13:20:220 Client/(24891:24891): Puerto: 4444
+[INFO] 23:13:20:220 Client/(24891:24891): Clave: valor
+[INFO] 14:51:03:745 Client/(26116:26116): Hola! Soy un log
+[INFO] 14:51:03:745 Client/(26116:26116): IP: 127.0.0.1
+[INFO] 14:51:03:745 Client/(26116:26116): Puerto: 4444
+[INFO] 14:51:03:745 Client/(26116:26116): Clave: valor
+[INFO] 14:55:25:025 Client/(26911:26911): Hola! Soy un log
+[INFO] 14:55:25:026 Client/(26911:26911): IP: 127.0.0.1
+[INFO] 14:55:25:026 Client/(26911:26911): Puerto: 4444
+[INFO] 14:55:25:026 Client/(26911:26911): Clave: valor
+[INFO] 14:59:57:618 Client/(27025:27025): Hola! Soy un log
+[INFO] 14:59:57:618 Client/(27025:27025): IP: 127.0.0.1
+[INFO] 14:59:57:618 Client/(27025:27025): Puerto: 4444
+[INFO] 14:59:57:618 Client/(27025:27025): Clave: valor
+[INFO] 15:01:59:338 Client/(27079:27079): Hola! Soy un log
+[INFO] 15:01:59:338 Client/(27079:27079): IP: 127.0.0.1
+[INFO] 15:01:59:338 Client/(27079:27079): Puerto: 4444
+[INFO] 15:01:59:338 Client/(27079:27079): Clave: valor
+[INFO] 15:02:15:859 Client/(27097:27097): Hola! Soy un log
+[INFO] 15:02:15:859 Client/(27097:27097): IP: 127.0.0.1
+[INFO] 15:02:15:859 Client/(27097:27097): Puerto: 4444
+[INFO] 15:02:15:859 Client/(27097:27097): Clave: valor
+[INFO] 15:03:50:802 Client/(27167:27167): Hola! Soy un log
+[INFO] 15:03:50:802 Client/(27167:27167): IP: 127.0.0.1
+[INFO] 15:03:50:802 Client/(27167:27167): Puerto: 4444
+[INFO] 15:03:50:802 Client/(27167:27167): Clave: valor
+[INFO] 15:05:04:438 Client/(27226:27226): Hola! Soy un log
+[INFO] 15:05:04:439 Client/(27226:27226): IP: 127.0.0.1
+[INFO] 15:05:04:439 Client/(27226:27226): Puerto: 4444
+[INFO] 15:05:04:439 Client/(27226:27226): Clave: valor
+[INFO] 15:05:21:327 Client/(27227:27227): Hola! Soy un log
+[INFO] 15:05:21:327 Client/(27227:27227): IP: 127.0.0.1
+[INFO] 15:05:21:327 Client/(27227:27227): Puerto: 4444
+[INFO] 15:05:21:327 Client/(27227:27227): Clave: valor
+[INFO] 15:06:32:666 Client/(27288:27288): Hola! Soy un log
+[INFO] 15:06:32:666 Client/(27288:27288): IP: 127.0.0.1
+[INFO] 15:06:32:666 Client/(27288:27288): Puerto: 4444
+[INFO] 15:06:32:666 Client/(27288:27288): Clave: valor
+[INFO] 15:11:14:770 Client/(27428:27428): Hola! Soy un log
+[INFO] 15:11:14:770 Client/(27428:27428): IP: 127.0.0.1
+[INFO] 15:11:14:770 Client/(27428:27428): Puerto: 4444
+[INFO] 15:11:14:770 Client/(27428:27428): Clave: valor
+[INFO] 15:13:50:034 Client/(27582:27582): Hola! Soy un log
+[INFO] 15:13:50:034 Client/(27582:27582): IP: 127.0.0.1
+[INFO] 15:13:50:034 Client/(27582:27582): Puerto: 4444
+[INFO] 15:13:50:035 Client/(27582:27582): Clave: valor
+[INFO] 15:49:40:220 Client/(29075:29075): Hola! Soy un log
+[INFO] 15:49:40:221 Client/(29075:29075): IP: 127.0.0.1
+[INFO] 15:49:40:221 Client/(29075:29075): Puerto: 4444
+[INFO] 15:49:40:221 Client/(29075:29075): Clave: valorDeLaClave
+[INFO] 15:50:16:275 Client/(29075:29075): Hola
+[INFO] 15:50:19:827 Client/(29075:29075): Que tal 
+[INFO] 15:50:24:267 Client/(29075:29075): Como va
+[INFO] 15:50:28:675 Client/(29075:29075): senior servidor un placer
+[INFO] 15:50:30:067 Client/(29075:29075): adios
+[INFO] 15:53:49:141 Client/(29224:29224): Hola! Soy un log
+[INFO] 15:53:49:142 Client/(29224:29224): IP: 127.0.0.1
+[INFO] 15:53:49:142 Client/(29224:29224): Puerto: 4444
+[INFO] 15:53:49:142 Client/(29224:29224): Clave: valorDeLaClave
+[INFO] 15:54:00:347 Client/(29224:29224): p
+[INFO] 15:54:39:566 Client/(29224:29224): hola
+[INFO] 15:54:42:251 Client/(29224:29224): que tal 
+[INFO] 15:54:56:619 Client/(29224:29224): hola
+[INFO] 15:54:58:291 Client/(29224:29224): que tal
+[INFO] 15:58:58:812 Client/(29662:29662): Hola! Soy un log
+[INFO] 15:58:58:821 Client/(29662:29662): IP: 127.0.0.1
+[INFO] 15:58:58:821 Client/(29662:29662): Puerto: 4444
+[INFO] 15:58:58:821 Client/(29662:29662): Clave: valorDeLaClave
+[INFO] 15:59:12:844 Client/(29662:29662): hola
+[INFO] 15:59:14:947 Client/(29662:29662): enviando
+[INFO] 15:59:16:355 Client/(29662:29662): el
+[INFO] 15:59:17:827 Client/(29662:29662): paquete
+[INFO] 15:59:19:907 Client/(29662:29662): chau
+[INFO] 15:59:20:677 Client/(29662:29662): se ha desconectado del servidor
+[INFO] 16:00:18:843 Client/(29727:29727): Hola! Soy un log
+[INFO] 16:00:18:844 Client/(29727:29727): IP: 127.0.0.1
+[INFO] 16:00:18:844 Client/(29727:29727): Puerto: 4444
+[INFO] 16:00:18:844 Client/(29727:29727): Clave: valorDeLaClave
+[INFO] 16:00:26:396 Client/(29727:29727): a
+[INFO] 16:00:40:537 Client/(29744:29744): Hola! Soy un log
+[INFO] 16:00:40:541 Client/(29744:29744): IP: 127.0.0.1
+[INFO] 16:00:40:542 Client/(29744:29744): Puerto: 4444
+[INFO] 16:00:40:542 Client/(29744:29744): Clave: valorDeLaClave
+[INFO] 16:00:47:268 Client/(29744:29744): hola
+[INFO] 16:00:48:484 Client/(29744:29744): paquete
+[INFO] 16:00:52:163 Client/(29744:29744): se ha desconectado del servidor
+[INFO] 12:02:40:612 Client/(31287:31287): Hola! Soy un log
+[INFO] 12:02:40:616 Client/(31287:31287): IP: 127.0.0.1
+[INFO] 12:02:40:616 Client/(31287:31287): Puerto: 4444
+[INFO] 12:02:40:616 Client/(31287:31287): Clave: valorDeLaClave
+[INFO] 12:03:08:569 Client/(31339:31339): Hola! Soy un log
+[DEBUG] 12:03:08:575 Client/(31339:31339): 12:03:08:575
+[INFO] 12:03:08:575 Client/(31339:31339): IP: 127.0.0.1
+[INFO] 12:03:08:576 Client/(31339:31339): Puerto: 4444
+[INFO] 12:03:08:576 Client/(31339:31339): Clave: valorDeLaClave
+[INFO] 12:53:38:299 Client/(31859:31859): Hola! Soy un log
+[INFO] 12:53:38:299 Client/(31859:31859): IP: 127.0.0.1
+[INFO] 12:53:38:299 Client/(31859:31859): Puerto: 4444
+[INFO] 12:53:38:299 Client/(31859:31859): Clave: valorDeLaClave
+[INFO] 12:53:47:747 Client/(31859:31859): Hola
+[INFO] 12:53:52:563 Client/(31859:31859): QUe tal servidor
+[INFO] 12:53:55:725 Client/(31859:31859): UN gusto
+[INFO] 12:53:56:323 Client/(31859:31859): se ha desconectado del servidor
+[INFO] 13:00:53:236 Client/(32043:32043): Hola! Soy un log
+[INFO] 13:00:53:237 Client/(32043:32043): IP: 127.0.0.1
+[INFO] 13:00:53:237 Client/(32043:32043): Puerto: 4444
+[INFO] 13:00:53:237 Client/(32043:32043): Clave: valorDeLaClave
+[INFO] 13:01:20:988 Client/(32043:32043): Hola
+[INFO] 13:02:03:219 Client/(32043:32043): hholi
+[INFO] 13:05:57:511 Client/(32043:32043): se ha desconectado del servidor
